@@ -19,8 +19,6 @@ ${data.description}
 
 ## Table of Contents
 
-${data.tableOfContents}
-
 * [Installation](#installation)
 
 * [Usage](#usage)
@@ -48,7 +46,7 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-github: ${data.GitHub}/n 
+GitHub: ${data.GitHub}/n 
 email: ${data.email}
 
 
