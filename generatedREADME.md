@@ -1,8 +1,8 @@
-# Bobbi is awesome
+# MJ's README Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## description
 
-This is a readme 
+This README Generator will help you quickly create a quality README for your project!
 
 ## Table of Contents
 
@@ -18,10 +18,10 @@ This is a readme
 
 ## Installation
 
-Step one be awesome
+Node.js must be installed prior to use.
 
 ## Usage
-Awesome things
+Please view the video below for a walkthrough on how to use:
 
 ## License
 MIT License
@@ -31,14 +31,14 @@ MIT License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 ## Contributing
-just do it
+Please send me an email if you have any questions about contributing. 
 
 ## Tests
-no test
+N/A
 
 ## Questions
-GitHub: nameuser
+GitHub: wellheythereMJ
 
-email: email@email.com
+email: abetterplace@outlook.com
 
 
