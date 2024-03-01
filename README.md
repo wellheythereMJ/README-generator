@@ -23,6 +23,8 @@ Node.js must be installed prior to use.
 ## Usage
 Please view the video below for a walkthrough on how to use:
 
+https://github.com/wellheythereMJ/potential-enigma/assets/153553474/3257d985-c84b-4fd6-98f8-b7f387e8efad
+
 ## License
 MIT License
 
