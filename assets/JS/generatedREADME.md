@@ -1,8 +1,8 @@
-# MJ's README Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Sample Title
+  
 ## description
 
-This README Generator will help you quickly create a quality README for your project!
+Sample description
 
 ## Table of Contents
 
@@ -18,27 +18,27 @@ This README Generator will help you quickly create a quality README for your pro
 
 ## Installation
 
-Node.js must be installed prior to use.
+Sample steps 1,2,3!
 
 ## Usage
-Please view the video below for a walkthrough on how to use:
+Sample example of usage.
 
 ## License
-MIT License
+None
 
-[MIT Docs](https://opensource.org/licenses/MIT)
 
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+This reposity is unlicensed.
 
 ## Contributing
-Please send me an email if you have any questions about contributing. 
+Sample guidelines for contributing.
 
 ## Tests
-N/A
+Sample tests engaged, Captain.
 
 ## Questions
-GitHub: wellheythereMJ
+GitHub: sampleGitHub
 
-email: abetterplace@outlook.com
+email: sample@example.com
 
 
